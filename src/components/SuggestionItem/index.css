@@ -1,0 +1,22 @@
+/* Write your CSS here */
+
+.list-item {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.arrow-image {
+  height: 20px;
+  margin-right: 40px;
+  margin-top: 10px;
+}
+.para {
+  color: #475569;
+  font-family: 'Roboto';
+  font-size: 15px;
+}
+.button {
+  border: none;
+  background-color: white;
+}

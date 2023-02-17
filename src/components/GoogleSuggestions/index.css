@@ -1,0 +1,42 @@
+/* Write your CSS here */
+
+.image {
+  height: 130px;
+  width: 400px;
+}
+.bg-container {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.img-container {
+  text-align: center;
+  margin-top: 50px;
+}
+.card-container {
+  box-shadow: 0px 4px 16px 0px #bfbfbf;
+  border-radius: 10px;
+  width: 500px;
+  margin-top: 20px;
+}
+.input-element {
+  cursor: pointer;
+  outline: none;
+  width: 500px;
+  height: 30px;
+  border: none;
+  margin-top: 0px;
+}
+.icon-container {
+  display: flex;
+  flex: row;
+  padding: 10px;
+}
+.icon {
+  height: 20px;
+}
+.suggestion-container {
+  margin-top: 0px;
+}
